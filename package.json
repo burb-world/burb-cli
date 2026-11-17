@@ -9,5 +9,8 @@
   "scripts": {
     "start": "node index.js"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "url": "git+https://github.com/burb-world/burb-cli.git"
+  }
 }
